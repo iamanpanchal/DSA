@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/iamanpanchal/DSA/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/iamanpanchal/DSA/tree/master/0283-move-zeroes) |
 | [1480-running-sum-of-1d-array](https://github.com/iamanpanchal/DSA/tree/master/1480-running-sum-of-1d-array) |
 ## Prefix Sum
 |  |
@@ -22,4 +23,8 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/iamanpanchal/DSA/tree/master/0217-contains-duplicate) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/iamanpanchal/DSA/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
