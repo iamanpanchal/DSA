@@ -13,6 +13,7 @@
 | [0217-contains-duplicate](https://github.com/iamanpanchal/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/iamanpanchal/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/iamanpanchal/DSA/tree/master/0283-move-zeroes) |
+| [0977-squares-of-a-sorted-array](https://github.com/iamanpanchal/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/iamanpanchal/DSA/tree/master/1480-running-sum-of-1d-array) |
 ## Prefix Sum
 |  |
@@ -28,10 +29,12 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/iamanpanchal/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/iamanpanchal/DSA/tree/master/0268-missing-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/iamanpanchal/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/iamanpanchal/DSA/tree/master/0283-move-zeroes) |
+| [0977-squares-of-a-sorted-array](https://github.com/iamanpanchal/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
