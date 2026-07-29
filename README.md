@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/iamanpanchal/DSA/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/iamanpanchal/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/iamanpanchal/DSA/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/iamanpanchal/DSA/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/iamanpanchal/DSA/tree/master/0268-missing-number) |
@@ -35,6 +36,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/iamanpanchal/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/iamanpanchal/DSA/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/iamanpanchal/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
