@@ -22,6 +22,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/iamanpanchal/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/iamanpanchal/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/iamanpanchal/DSA/tree/master/1051-height-checker) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/iamanpanchal/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1480-running-sum-of-1d-array](https://github.com/iamanpanchal/DSA/tree/master/1480-running-sum-of-1d-array) |
 ## Prefix Sum
 |  |
