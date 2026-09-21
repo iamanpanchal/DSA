@@ -11,6 +11,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/iamanpanchal/DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/iamanpanchal/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/iamanpanchal/DSA/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/iamanpanchal/DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/iamanpanchal/DSA/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/iamanpanchal/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -51,6 +52,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/iamanpanchal/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/iamanpanchal/DSA/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/iamanpanchal/DSA/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/iamanpanchal/DSA/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/iamanpanchal/DSA/tree/master/0977-squares-of-a-sorted-array) |
