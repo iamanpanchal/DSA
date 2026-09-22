@@ -17,3 +17,5 @@ class Solution {
         return -1;
     }
 }
+// Time  = O(n)
+// Space = O(n)
